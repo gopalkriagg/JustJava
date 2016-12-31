@@ -18,7 +18,7 @@ import java.text.NumberFormat;
  * This app displays an order form to order coffee.
  */
 
-//For commit
+//For commit testing
 
 public class MainActivity extends AppCompatActivity {
 
